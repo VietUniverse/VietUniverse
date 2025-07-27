@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm VietUniverse</h1>
-<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi 👋, I'm Viet Le</h1>
+<h3 align="center">A calf developer from Vietnam 🇻🇳</h3>
 
-<p align="center">
-  <img src="https://URL_TO_YOUR_BANNER_IMAGE" alt="Banner">
-</p>
 
 ---
 
 <p align="left">
   <br>
-  - 🌱 I’m currently learning ... <em>Information Technology</em>
+  - 🌱 I’m currently learning ... <em>Information Technology in Dalat University</em>
   <br>
   - 👯 I’m looking to collaborate on ... <em>Natural Language, Machine Learning, AI</em>
   <br>
@@ -17,7 +14,7 @@
   <br>
   - 😄 Pronouns: ... <em>He/him</em>
   <br>
-  - ⚡ Fun fact: ... <em>curious with every thing inspiring me</em>
+  - ⚡ Fun fact: ... <em>curioused with every thing inspiring me, hope my dream come true (GKS-U POSTECH)</em>
 </p>
 
 ---
