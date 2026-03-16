@@ -10,11 +10,11 @@
   <br>
   - 👯 I’m looking to collaborate on ... <em>Natural Language, Machine Learning, AI</em>
   <br>
-  - 📫 How to reach me: <strong>vietld.vn@gmail.com</strong>
+  - 📫 How to reach me: <strong>2411945@dlu.edu.vn</strong>
   <br>
   - 😄 Pronouns: ... <em>He/him</em>
   <br>
-  - ⚡ Fun fact: ... <em>curioused with every thing inspiring me, hope my dream come true (GKS-U POSTECH)</em>
+  - ⚡ Fun fact: ... <em>curioused with every thing inspiring me, hope my dream come true (GKS)</em>
 </p>
 
 ---
