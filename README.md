@@ -26,24 +26,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/VietUniverse?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7694a0e72152.png" width="105" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/assets/starstruck-default-6435c24e6a0d.png" width="105" alt="Starstruck" title="Starstruck" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="105" alt="Pull Shark" title="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c4fa449d8d.png" width="105" alt="Quickdraw" title="Quickdraw" />
-  <img src="https://github.githubassets.com/assets/yolo-default-4014f357065f.png" width="105" alt="YOLO" title="YOLO" />
-  <img src="https://github.githubassets.com/assets/galaxy-brain-default-e962886f4522.png" width="105" alt="Galaxy Brain" title="Galaxy Brain" />
-  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d93041936.png" width="105" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
-</a>
-
-</div>
-
----
-
 ### 👨‍💻 About Me
 
 ```csharp
