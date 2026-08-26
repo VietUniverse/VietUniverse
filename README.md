@@ -9,7 +9,7 @@
     <b>Junior Developer | IT Student at Dalat University | C# & .NET Enthusiast</b>
   </p>
 
-  <!-- Clean Live Badges (All Tested 200 OK) -->
+  <!-- Clean Live Badges -->
   <p align="center">
     <a href="https://github.com/VietUniverse">
       <img src="https://img.shields.io/github/followers/VietUniverse?logo=github&style=for-the-badge&color=10B981&labelColor=0F172A" />
@@ -21,6 +21,24 @@
     <img src="https://img.shields.io/badge/Location-Vietnam-4F46E5?style=for-the-badge&logo=googlemaps&labelColor=0F172A" />
     <img src="https://img.shields.io/badge/DLU-IT_Student-0078D4?style=for-the-badge&logo=education&labelColor=0F172A" />
   </p>
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/VietUniverse?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7694a0e72152.png" width="105" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/starstruck-default-6435c24e6a0d.png" width="105" alt="Starstruck" title="Starstruck" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="105" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c4fa449d8d.png" width="105" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/yolo-default-4014f357065f.png" width="105" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/assets/galaxy-brain-default-e962886f4522.png" width="105" alt="Galaxy Brain" title="Galaxy Brain" />
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d93041936.png" width="105" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+</a>
 
 </div>
 
