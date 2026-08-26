@@ -6,3 +6,5 @@
 - **Pull Shark** 🦈 (Unlocked via Merged Pull Requests)
 - **Galaxy Brain** 🧠 (In Progress)
 - **Starstruck** ⭐ (In Progress)
+
+<!-- PR 2 -->
