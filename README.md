@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Typing SVG Banner (Fixed Width & Font Size for zero cutoff) -->
+  <!-- Typing SVG Banner (Tested 200 OK) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=500&height=45&lines=Hi+%F0%9F%91%8B,+I'm+Viet+Le!;IT+Student+@+Dalat+University+%F0%9F%8F%AB;C%23,+.NET+%26+AI+Enthusiast+%F0%9F%9A%80;Building+Cool+Applications+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=480&height=45&lines=Hi+%F0%9F%91%8B,+I'm+Viet+Le!;IT+Student+@+Dalat+University+%F0%9F%8F%AB;C%23,+.NET+%26+AI+Enthusiast+%F0%9F%9A%80;Building+Cool+Applications+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Junior Developer | IT Student at Dalat University | C# & .NET Enthusiast</b>
   </p>
 
-  <!-- Clean Badges (Fixed emoji encoding & alignment) -->
+  <!-- Clean Live Badges (All Tested 200 OK) -->
   <p align="center">
     <a href="https://github.com/VietUniverse">
       <img src="https://img.shields.io/github/followers/VietUniverse?logo=github&style=for-the-badge&color=10B981&labelColor=0F172A" />
@@ -17,6 +17,7 @@
     <a href="https://github.com/VietUniverse">
       <img src="https://img.shields.io/github/stars/VietUniverse?logo=github&style=for-the-badge&color=F59E0B&labelColor=0F172A" />
     </a>
+    <img src="https://img.shields.io/badge/Repositories-25_Public-3B82F6?style=for-the-badge&logo=github&labelColor=0F172A" />
     <img src="https://img.shields.io/badge/Location-Vietnam-4F46E5?style=for-the-badge&logo=googlemaps&labelColor=0F172A" />
     <img src="https://img.shields.io/badge/DLU-IT_Student-0078D4?style=for-the-badge&logo=education&labelColor=0F172A" />
   </p>
@@ -81,27 +82,6 @@ public class Developer
 | **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | **Frameworks** | ![.NET 9](https://img.shields.io/badge/.NET_9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **Tools** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/VietUniverse">
-  <img width="48%" src="https://github-readme-stats-git-masterrst-grs-p.vercel.app/api?username=VietUniverse&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=F8FAFC&icon_color=F59E0B" />
-</a>
-<a href="https://github.com/VietUniverse">
-  <img width="48%" src="https://github-readme-stats-git-masterrst-grs-p.vercel.app/api/top-langs/?username=VietUniverse&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=10B981&text_color=F8FAFC" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/VietUniverse">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=VietUniverse&theme=react-dark&hide_border=true&bg_color=0F172A&color=10B981&line=10B981&point=F59E0B" />
-</a>
 
 </div>
 
